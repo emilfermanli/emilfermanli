@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 <br />
 <div>
 
-[<img align="left" alt="Jamal Huseynov | LinkedIn" width="30px" src="https://camo.githubusercontent.com/c8a9c5b414cd812ad6a97a46c29af67239ddaeae08c41724ff7d945fb4c047e5/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f6c696e6b6564696e2e737667" />](https://www.linkedin.com/in/emilfarmanli/)
+[<img align="left" alt="Emil Farmanli | LinkedIn" width="30px" src="https://camo.githubusercontent.com/c8a9c5b414cd812ad6a97a46c29af67239ddaeae08c41724ff7d945fb4c047e5/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f6c696e6b6564696e2e737667" />](https://www.linkedin.com/in/emilfarmanli/)
   
 </div>
 
@@ -51,7 +51,7 @@ Here are some ideas to get you started:
 <br />
 <br />
 
-<img  align="left"  alt="Jamal Huseynov Github Stats"  src="https://github-readme-stats.vercel.app/api?username=jmlhsynv&show_icons=true&hide_border=true&theme=radical" />
-<img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=jmlhsynv&layout=compact&theme=radical" />
+<img  align="left"  alt="Emil Farmanli Github Stats"  src="https://github-readme-stats.vercel.app/api?username=emilfermanli&show_icons=true&hide_border=true&theme=radical" />
+<img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=emilfermanli&layout=compact&theme=radical" />
 
 
